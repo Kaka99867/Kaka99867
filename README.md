@@ -34,28 +34,27 @@ I also have experience publishing apps on the **Google Play Store**.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaka99867&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaka99867&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaka99867&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/943158096262488085" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/kaka.scp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaka-akhidzurribha-al-muyassari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
