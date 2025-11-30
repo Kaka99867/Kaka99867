@@ -1,62 +1,71 @@
-<h1 align="center">Hi, I'm KAKA</h1>
+<h1 align="center">Hi 👋, I'm Kaka</h1>
+<h3 align="center">Fullstack JavaScript Developer | Mobile Developer</h3>
 
 ---
 
-### About Me
-
-I am a Full-Stack JavaScript Developer specializing in Next.js for modern web development and mobile application development with experience launching applications on the Google Play Store. I enjoy building scalable applications, writing clean and maintainable code, and continuously improving my technical skills. Passionate about solving real-world problems through technology, I strive to deliver efficient, user-focused, and reliable digital solutions.
-
----
-
-### My Skills
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-</div>
+## 🚀 About Me
+I am a passionate **Fullstack JavaScript Developer** and **Mobile Developer** focused on building modern, scalable applications.  
+I usually work with **Next.js** for web development and **React Native / Flutter** for mobile development.  
+I also have experience publishing apps on the **Google Play Store**.
 
 ---
 
-### Contact Me
+## 🛠️ Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaka-akhidzurribha-al-muyassari-570820384/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
+### 💻 **Fullstack Development**
+- Next.js  
+- Node.js  
+- Express.js  
+- REST API  
+- MongoDB / PostgreSQL  
+
+### 📱 **Mobile Development**
+- React Native  
+- Flutter  
+- Firebase  
+
+### 🔧 **Tools & Others**
+- Git & GitHub  
+- Vercel  
+- Linux / Ubuntu  
+- Figma (UI/UX)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaka99867&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaka99867&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaka99867&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/s975WRpF" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="25"/>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-</div>
+</p>
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<!-- Total GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kaka99867&show_icons=true&theme=tokyonight" height="170"/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kaka99867&theme=tokyonight" height="170"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaka99867&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
+## 📌 Featured Projects
+- 🚀 **Your Play Store App** – A published mobile application  
+- 💻 Fullstack Web Apps using Next.js  
+- 📱 Mobile Apps using React Native / Flutter  
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaka99867.Kaka99867&left_color=black&right_color=blueviolet"/>
-</div>
+⭐ *Feel free to explore my repositories and connect with me!*
