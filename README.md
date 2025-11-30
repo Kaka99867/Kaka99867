@@ -4,27 +4,30 @@
 ---
 
 ## 🚀 About Me
-I am a passionate **Fullstack JavaScript Developer** and **Mobile Developer** focused on building modern, scalable applications.  
-I usually work with **Next.js** for web development and **React Native / Flutter** for mobile development.  
-I also have experience publishing apps on the **Google Play Store**.
+I am a passionate **Fullstack JavaScript Developer** and **Mobile Developer** focused on building modern, scalable applications.
+
+I specialize in building:
+- 🌐 Web apps using **Next.js**
+- 📱 Mobile apps using **React Native** and **Flutter**
+- 🚀 Apps published on the **Google Play Store**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 **Fullstack Development**
+### 💻 Fullstack Development
 - Next.js  
 - Node.js  
 - Express.js  
 - REST API  
 - MongoDB / PostgreSQL  
 
-### 📱 **Mobile Development**
+### 📱 Mobile Development
 - React Native  
 - Flutter  
 - Firebase  
 
-### 🔧 **Tools & Others**
+### 🔧 Tools & Others
 - Git & GitHub  
 - Vercel  
 - Linux / Ubuntu  
@@ -34,13 +37,25 @@ I also have experience publishing apps on the **Google Play Store**.
 
 ## 📊 GitHub Statistics
 
+<div align="center">
 
+<!-- 🌙 Dark Mode -->
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Kaka99867&theme=tokyonight" 
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <!-- ☀️ Light Mode -->
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Kaka99867&theme=default" 
+    media="(prefers-color-scheme: light)"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaka99867&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaka99867&theme=default" />
+</picture>
 
-
+</div>
 
 ---
 
@@ -50,9 +65,15 @@ I also have experience publishing apps on the **Google Play Store**.
   <a href="https://discord.com/users/943158096262488085" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/kaka.scp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/kaka-akhidzurribha-al-muyassari-570820384" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -61,9 +82,9 @@ I also have experience publishing apps on the **Google Play Store**.
 ---
 
 ## 📌 Featured Projects
-- 🚀 **Your Play Store App** – A published mobile application  
-- 💻 Fullstack Web Apps using Next.js  
-- 📱 Mobile Apps using React Native / Flutter  
+- 🚀 Published mobile app on **Google Play Store**
+- 💻 Fullstack Web Apps using **Next.js**
+- 📱 Mobile Apps using **React Native / Flutter**
 
 ---
 
