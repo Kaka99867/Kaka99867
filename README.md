@@ -53,7 +53,7 @@ I also have experience publishing apps on the **Google Play Store**.
   <a href="https://www.instagram.com/kaka.scp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/kaka-akhidzurribha-al-muyassari" target="_blank">
+  <a href="https://www.linkedin.com/in/kaka-akhidzurribha-al-muyassari-570820384" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
